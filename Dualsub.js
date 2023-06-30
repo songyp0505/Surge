@@ -56,7 +56,7 @@ let default_settings = {
         lang: "English [CC]",
         sl: "auto",
         tl: "English [CC]",
-        line: "s", // f, s
+        line: "f", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
         t_subtitles_url: "null",
@@ -72,7 +72,7 @@ let default_settings = {
         lang: "English CC",
         sl: "auto",
         tl: "en-US SDH",
-        line: "s", // f, s
+        line: "f", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
         t_subtitles_url: "null",
@@ -88,7 +88,7 @@ let default_settings = {
         lang: "English",
         sl: "auto",
         tl: "en",
-        line: "s", // f, s
+        line: "f", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
         t_subtitles_url: "null",
@@ -104,7 +104,7 @@ let default_settings = {
         lang: "English",
         sl: "auto",
         tl: "en",
-        line: "s", // f, s
+        line: "f", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
         t_subtitles_url: "null",
@@ -120,7 +120,7 @@ let default_settings = {
         lang: "English",
         sl: "auto",
         tl: "en",
-        line: "s", // f, s
+        line: "f", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
         t_subtitles_url: "null",
@@ -136,7 +136,7 @@ let default_settings = {
         lang: "English [CC]",
         sl: "auto",
         tl: "English [CC]",
-        line: "s", // f, s
+        line: "f", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
         t_subtitles_url: "null",
@@ -153,7 +153,7 @@ let default_settings = {
         lang: "English",
         sl: "auto",
         tl: "en",
-        line: "s", // f, s
+        line: "f", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
         t_subtitles_url: "null",
